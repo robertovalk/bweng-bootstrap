@@ -1,0 +1,21 @@
+
+.input-padrao {
+    background-color: white;
+    border-radius: 2em
+}
+
+.main-content{
+    overflow-x: hidden;
+    max-width: 100vw;
+    padding-top: 20em;
+    padding-bottom: 18em;
+}
+
+.main-text{
+    color: var(--main-color-primary)
+}
+
+.main-bg {
+    background: var(--background)
+}
+

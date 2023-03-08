@@ -1,0 +1,17 @@
+@import url('../style/reset.css');
+@import url('../style/fonts.css');
+@import url('../style/style.css');
+@import url('../style/navbar.css');
+@import url('../style/main.css');
+
+
+:root {
+    --background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(193,193,193,1) 100%);
+    --font-primary: 'Inter';
+    --background-navbar: #ffff;
+    --navbar-color-hover: #FFCC00;
+    --navbar-color-active: #EDD456;
+    --navbar-text-color: #000000;
+    --main-color-primary: #FBAB7E;
+    
+}
